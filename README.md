@@ -17,7 +17,6 @@ Saya bekerja di administrasi bengkel body repair, dan di waktu luang saya memban
 | Proyek | Deskripsi |
 |--------|-----------|
 | [bot-flora-fauna-jawa](https://github.com/sabuncolek-maker/bot-flora-fauna-jawa) | Bot konten otomatis flora & fauna Jawa — posting infografis, Reels 30 detik, dan carousel "Mitos vs Fakta" ke Instagram & Facebook via GitHub Actions |
-| [agent-konten-harian_Kutipan](https://github.com/sabuncolek-maker/agent-konten-harian_Kutipan) | AI agent riset → verifikasi → posting kutipan harian bertema Indonesia |
 | [agent-konten-harian](https://github.com/sabuncolek-maker/agent-konten-harian) | AI agent konten harian otomatis |
 
 ## 🎬 Lagi Ditekuni
